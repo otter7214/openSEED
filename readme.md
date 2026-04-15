@@ -1,15 +1,15 @@
 [(en-US)](./readme-en.md) | [(ko-KR)](./readme.md)
 
-# 오픈나무
+# 오픈시드
 [![Python 3.8 이상](https://img.shields.io/badge/python->=%203.8-blue.svg)](https://python.org)
 [![라이선스](https://img.shields.io/badge/license-BSD%203--Clause-lightgrey.svg)](./LICENSE)
 
 ![](https://raw.githubusercontent.com/openNAMU/openNAMU/beta/.github/logo.png)
 
-오픈나무는 파이썬 기반의 위키 엔진입니다.
+오픈시드는 파이썬 기반의 위키 엔진입니다.
 
 ## 시작하기
-오픈나무는 파이썬 환경에서 동작하는 파이썬 애플리케이션으로, 파이썬 환경을 필요로 합니다.
+오픈시드는 파이썬 환경에서 동작하는 파이썬 애플리케이션으로, 파이썬 환경을 필요로 합니다.
 
 [여기](https://2du.pythonanywhere.com/w/설치법)를 눌러 설치 가이드를 볼 수 있습니다.
 
@@ -20,9 +20,9 @@
  * 개발: `git clone -b dev https://github.com/openNAMU/openNAMU.git`
 
 ## 기여
-오픈나무에는 확인되지 않은 버그가 존재할 수 있습니다. 이를 보고해주시면 오픈나무의 발전을 도울 수 있습니다. [여기](https://github.com/openNAMU/openNAMU/issues/new)를 눌러 버그를 보고해주세요.
+오픈시드에는 확인되지 않은 버그가 존재할 수 있습니다. 이를 보고해주시면 오픈시드의 발전을 도울 수 있습니다. [여기](https://github.com/otter7214/openSEED/issues/new)를 눌러 버그를 보고해주세요.
 
-오픈나무는 오픈소스 프로젝트입니다. 원한다면 직접 코드를 수정하고 [Pull Request](https://github.com/openNAMU/openNAMU/compare)를 보낼 수 있습니다.
+오픈나무는 오픈소스 프로젝트입니다. 원한다면 직접 코드를 수정하고 [Pull Request](https://github.com/otter7214/openSEED/compare)를 보낼 수 있습니다.
 
 ## 라이선스
 오픈나무 프로젝트는 [BSD 3-Clause License](./LICENSE) [(ko-KR)](https://www.olis.or.kr/license/Detailselect.do?lId=1092)이며, 오픈나무 프로젝트를 사용하고자 한다면 라이선스를 준수해야 합니다. 자세한 내용은 문서를 참고하세요.
@@ -35,6 +35,7 @@
  * [GopenNAMU](https://github.com/openNAMU/GopenNAMU)
 
 ### 도움을 주신 분들
+ * 오픈나무 프로젝트
  * [Team Croatia](https://github.com/TeamCroatia)
  * Basix
  * Efrit
